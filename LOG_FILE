@@ -1,0 +1,104 @@
+Last metadata expiration check: 0:49:39 ago on Thu 09 Jan 2025 09:05:07 AM UTC.
+Package git-2.43.5-1.el9.x86_64 is already installed.
+Dependencies resolved.
+Nothing to do.
+Complete!
+Last metadata expiration check: 0:49:39 ago on Thu 09 Jan 2025 09:05:07 AM UTC.
+Package vim-enhanced-2:8.2.2637-21.el9.x86_64 is already installed.
+Dependencies resolved.
+Nothing to do.
+Complete!
+Last metadata expiration check: 0:49:40 ago on Thu 09 Jan 2025 09:05:07 AM UTC.
+Package wget-1.21.1-8.el9.x86_64 is already installed.
+Dependencies resolved.
+Nothing to do.
+Complete!
+Last metadata expiration check: 0:49:40 ago on Thu 09 Jan 2025 09:05:07 AM UTC.
+Package net-tools-2.0-0.64.20160912git.el9.x86_64 is already installed.
+Dependencies resolved.
+Nothing to do.
+Complete!
+Last metadata expiration check: 1:09:30 ago on Thu 09 Jan 2025 09:05:07 AM UTC.
+Package git-2.43.5-1.el9.x86_64 is already installed.
+Dependencies resolved.
+Nothing to do.
+Complete!
+Last metadata expiration check: 1:09:30 ago on Thu 09 Jan 2025 09:05:07 AM UTC.
+Package yum-4.14.0-4.el9.noarch is already installed.
+Dependencies resolved.
+================================================================================
+ Package             Architecture   Version                Repository      Size
+================================================================================
+Upgrading:
+ dnf                 noarch         4.14.0-23.el9          baseos         478 k
+ dnf-data            noarch         4.14.0-23.el9          baseos          37 k
+ python3-dnf         noarch         4.14.0-23.el9          baseos         461 k
+ yum                 noarch         4.14.0-23.el9          baseos          88 k
+
+Transaction Summary
+================================================================================
+Upgrade  4 Packages
+
+Total download size: 1.0 M
+Downloading Packages:
+(1/4): dnf-data-4.14.0-23.el9.noarch.rpm        162 kB/s |  37 kB     00:00    
+(2/4): dnf-4.14.0-23.el9.noarch.rpm             1.8 MB/s | 478 kB     00:00    
+(3/4): yum-4.14.0-23.el9.noarch.rpm             2.5 MB/s |  88 kB     00:00    
+(4/4): python3-dnf-4.14.0-23.el9.noarch.rpm     1.6 MB/s | 461 kB     00:00    
+--------------------------------------------------------------------------------
+Total                                           948 kB/s | 1.0 MB     00:01     
+Running transaction check
+Transaction check succeeded.
+Running transaction test
+Transaction test succeeded.
+Running transaction
+  Preparing        :                                                        1/1 
+  Upgrading        : dnf-data-4.14.0-23.el9.noarch                          1/8 
+  Upgrading        : python3-dnf-4.14.0-23.el9.noarch                       2/8 
+  Upgrading        : dnf-4.14.0-23.el9.noarch                               3/8 
+  Running scriptlet: dnf-4.14.0-23.el9.noarch                               3/8 
+  Upgrading        : yum-4.14.0-23.el9.noarch                               4/8 
+  Cleanup          : yum-4.14.0-4.el9.noarch                                5/8 
+  Running scriptlet: dnf-4.14.0-4.el9.noarch                                6/8 
+  Cleanup          : dnf-4.14.0-4.el9.noarch                                6/8 
+  Running scriptlet: dnf-4.14.0-4.el9.noarch                                6/8 
+  Cleanup          : python3-dnf-4.14.0-4.el9.noarch                        7/8 
+  Cleanup          : dnf-data-4.14.0-4.el9.noarch                           8/8 
+  Running scriptlet: dnf-data-4.14.0-4.el9.noarch                           8/8 
+  Verifying        : dnf-4.14.0-23.el9.noarch                               1/8 
+  Verifying        : dnf-4.14.0-4.el9.noarch                                2/8 
+  Verifying        : dnf-data-4.14.0-23.el9.noarch                          3/8 
+  Verifying        : dnf-data-4.14.0-4.el9.noarch                           4/8 
+  Verifying        : python3-dnf-4.14.0-23.el9.noarch                       5/8 
+  Verifying        : python3-dnf-4.14.0-4.el9.noarch                        6/8 
+  Verifying        : yum-4.14.0-23.el9.noarch                               7/8 
+  Verifying        : yum-4.14.0-4.el9.noarch                                8/8 
+
+Upgraded:
+  dnf-4.14.0-23.el9.noarch                 dnf-data-4.14.0-23.el9.noarch        
+  python3-dnf-4.14.0-23.el9.noarch         yum-4.14.0-23.el9.noarch             
+
+Complete!
+Last metadata expiration check: 1:14:25 ago on Thu 09 Jan 2025 09:05:07 AM UTC.
+Package git-2.43.5-1.el9.x86_64 is already installed.
+Dependencies resolved.
+Nothing to do.
+Complete!
+Last metadata expiration check: 1:14:26 ago on Thu 09 Jan 2025 09:05:07 AM UTC.
+Package yum-4.14.0-23.el9.noarch is already installed.
+Dependencies resolved.
+Nothing to do.
+Complete!
+Last metadata expiration check: 1:14:26 ago on Thu 09 Jan 2025 09:05:07 AM UTC.
+Package vim-enhanced-2:8.2.2637-21.el9.x86_64 is already installed.
+Dependencies resolved.
+Nothing to do.
+Complete!
+Last metadata expiration check: 1:14:27 ago on Thu 09 Jan 2025 09:05:07 AM UTC.
+Package net-tools-2.0-0.64.20160912git.el9.x86_64 is already installed.
+Dependencies resolved.
+Nothing to do.
+Complete!
+Last metadata expiration check: 1:14:28 ago on Thu 09 Jan 2025 09:05:07 AM UTC.
+No match for argument: pip3
+Error: Unable to find a match: pip3
